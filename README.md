@@ -1,5 +1,6 @@
-This project is all about building a Ice cream parlor kindo of application. In this we have a ice_cream_parlor.py file and a schema.sql file which contains the structure of the table and sample_data.sql that contains the whole data which comprises of seasonal flavors, customer suggestions and ingredients details. And ingredients contain binary values. 0 representing that it is not allergic and 1 representing that itt is allergic.
+This project is all about building a Ice cream parlor kind of application. In this we have a ice_cream_parlor.py file and a schema.sql file which contains the structure of the table and sample_data.sql that contains the whole data which comprises of seasonal flavors, customer suggestions and ingredients details. And ingredients contain binary values. 0 representing that it is not allergic and 1 representing that itt is allergic.
 Command to run this applcation : "python ice_cream_parlor.py".
+And to run this application we need all these files. so in the code we have given each part of code that is relevantthe below mentioned functions. And then a main method where the code part is of all the 9 functions that helps us to enter the oprions to run this application.
 And the basic desgin of this app is very simple as we used the python code to build this and it will be giving us the result of nine different operaions and they are:
 1.Seasonal Flavors
 2. Search Flavors
